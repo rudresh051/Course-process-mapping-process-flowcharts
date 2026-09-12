@@ -62,3 +62,18 @@ As it sometimes can be difficult to come up with the right verb for various proc
 • update  
 • validate  
 • verify  
+
+```txt
+As you create process flow charts,
+you want to make sure that they're simple,
+they're clean, and they're clear.
+I know they can be really boring to look at,
+and you want to make them more elegant, but don't.
+Boring is simple and boring is easy to understand.
+```
+
+![alt text](image-2.png)
+
+## Macaroni and Cheese Example
+
+![alt text](image-3.png)
